@@ -1,4 +1,4 @@
-# RPCar
+# 마이크로임베디드프로그래밍 : RPCar
 ## 개요
 ■ Raspberry Pi를 이용한 자동차
 
