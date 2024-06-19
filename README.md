@@ -24,6 +24,6 @@
 
 ## 구현 결과물
 
-유튜브 영상 링크 : https://youtu.be/NdLFvqDE92M
+유튜브 영상 링크 : <https://youtu.be/NdLFvqDE92M>
 
-유튜브 영상 링크 : https://youtu.be/tr5MButj-L4
+유튜브 영상 링크 : <https://youtu.be/tr5MButj-L4>
