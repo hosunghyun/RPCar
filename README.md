@@ -16,6 +16,13 @@
 
 대진대학교 컴퓨터 공학과 20180000 김현호
 
+##  사용 기술 및 개발 환경
+- OS : Raspbian
+- Sensor :
+- Language : C
+- Tools : Vi, Vim
+
+
 ## 내용
 
 ### 구현 기능
