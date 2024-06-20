@@ -32,7 +32,6 @@
 
 ## 구현 결과물
 
-![SolarSystem](https://github.com/hosunghyun/RPCar/assets/149512530/38acff12-bda3-46bb-b4aa-c3b13eb58eff)
 
 유튜브 영상 링크 : <https://youtu.be/NdLFvqDE92M>
 
